@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: firebrick;
+    color: white; ;
+}
+
+main {
+    color: green;
+}
+
+h2 { 
+    color: royalblue;
+    text-align: center;
+}
+
+footer {
+    color: crimson;
+}
+
+p {
+    color: black;
+}
+
+b {
+    color: gold;
+    font-size: 30px;
+}
+
+.mart {
+    border: 8px solid red;
+    background-color: red;
+}
+
+footer {
+    border: 7px solid greenyellow;
+    background-color: blue;
+}
+
+nav a {
+    font-size: 19px;
+    background-color:gray;
+    color: white;
+}
